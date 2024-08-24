@@ -15,10 +15,10 @@ html[dir="ltr"] {
 }
 
 .heroMockup {
-  @media (min-width: 375px) {
+  margin-left: -30px !important;
+  scale: 1.3;
+  @media (min-width: 450px) {
+    margin-left: -50px !important;
     scale: 1.3;
-  }
-  @media (min-width: 768px) {
-    scale: 1;
   }
 }
