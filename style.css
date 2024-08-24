@@ -15,7 +15,6 @@ html[dir="ltr"] {
 }
 
 .heroMockup {
-  scale: 1.5;
   @media (min-width: 375px) {
     scale: 1.3;
   }
